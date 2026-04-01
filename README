@@ -1,0 +1,10 @@
+
+
+
+DESCRIPTION
+       The  skak command  is  used to calculate the shortest path a
+       knight piece can take between two squares on a chess board.
+
+BUILDING
+       $ make install
+       
